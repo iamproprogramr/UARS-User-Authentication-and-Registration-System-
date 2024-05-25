@@ -35,7 +35,7 @@ This program is a simple registration and login system built using Tkinter for t
 3. Run the `user_authentication_and_registration_system.py` script.
 ## Output
 
-![iamproprogramr](OUTPUT.png)
+![iamproprogramr](OutPut.png)
 
 
 ### License:
