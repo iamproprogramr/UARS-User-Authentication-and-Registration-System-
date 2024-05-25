@@ -16,7 +16,7 @@ This program is a simple registration and login system built using Tkinter for t
 5. Click the "Login" button to authenticate.
 
 ### Files:
-- `user_authentication_system.py`: Main Python script containing the program.
+- `user_authentication_and_registration_system.py`: Main Python script containing the program.
 - `README.md`: This file providing information about the program.
 - `LICENSE`: MIT LICENSE of this code
 - `.gitignore`:
@@ -32,7 +32,7 @@ This program is a simple registration and login system built using Tkinter for t
    pip install tkinter
    pip install pysqlite3
    ```
-3. Run the `user_authentication_and_system.py` script.
+3. Run the `user_authentication_and_registration_system.py` script.
 
 ### License:
 This program is distributed under the MIT License. See the LICENSE file for details.
