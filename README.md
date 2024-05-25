@@ -33,7 +33,7 @@ This program is a simple registration and login system built using Tkinter for t
    pip install pysqlite3
    ```
 3. Run the `user_authentication_and_registration_system.py` script.
-## My certificate,
+## Output
 
 ![iamproprogramr](OUTPUT.png)
 
