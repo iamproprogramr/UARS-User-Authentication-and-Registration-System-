@@ -1,4 +1,4 @@
-# UARS-User-Authentication-and-Registration-System-
+# UARS (User Authentication and Registration System)
 
 ### Author: Muhammad Yousaf
 
