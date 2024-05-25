@@ -4,7 +4,7 @@ import tkinter as tk
 import sqlite3 as sq
 
 sc = tk.Tk()
-sc.title("Registration and login program")
+sc.title("UARS")
 def register():
     username = entry_un.get()
     password = entry_p.get()
